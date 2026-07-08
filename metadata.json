@@ -1,0 +1,6 @@
+{
+  "name": "Marshall Mix Design",
+  "description": "A professional suite for Marshall Mix Design parameter analysis, compliance check with SPJ Section 4 JKR Malaysia, interactive figures, and optimization recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
